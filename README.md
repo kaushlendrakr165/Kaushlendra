@@ -16,5 +16,5 @@ B.Com Graduate | Aspiring Data Analyst / Python Developer
 
 
 ## Contact
-- Email:kaushlendrakrjha165@gmail.com
-- LinkedIn:https://www.linkedin.com/in/kaushlendra-kumar-495776224/
+- Email:- kaushlendrakrjha165@gmail.com
+- LinkedIn:- https://www.linkedin.com/in/kaushlendra-kumar-495776224/
