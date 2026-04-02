@@ -1,6 +1,6 @@
 # Kaushlendra
 
-## Hi, I'm Kaushlendra 👋
+## Hi, I'm Kaushlendra 
 
 B.Com Graduate | Aspiring Data Analyst / Python Developer  
 
