@@ -2,7 +2,7 @@
 
 ## Hi, I'm Kaushlendra 
 
-B.Com Graduate | Aspiring Data Analyst / Python Developer |Strong Problem-Solving Mindset
+B.Com Graduate | Aspiring Data Analyst / Python Developer | Strong Problem-Solving Mindset
 
 ## Skills
 - Python
