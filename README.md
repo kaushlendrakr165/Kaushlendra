@@ -6,6 +6,7 @@ B.Com Graduate | Aspiring Data Analyst / Python Developer | Strong Problem-Solvi
 
 ## Skills
 - Python
+- React.js
 - SQL
 - Data Analysis (Pandas, NumPy)
 - Power BI
@@ -13,6 +14,10 @@ B.Com Graduate | Aspiring Data Analyst / Python Developer | Strong Problem-Solvi
 
 ##  Projects
 - Coffee Ordering App
+- Drink-Water-Reminder
+- Qr-Code-Generator
+- Resume-GeneretorResume-Generetor
+- Covid-19 Analysis
 
 
 ## Contact
